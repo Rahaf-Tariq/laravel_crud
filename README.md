@@ -30,8 +30,8 @@ Follow these steps to get the project running locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/peopledesk.git
-cd peopledesk
+git clone https://github.com/Rahaf-Tariq/laravel_crud.git
+cd laravel_crud
 ```
 
 ### 2. Install PHP Dependencies
